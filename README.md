@@ -62,3 +62,23 @@ git push --all origin
 ```bash
 git push origin faizan
 ```
+
+
+### 11. Checkout to dev branch
+
+```bash
+git checkout dev
+```
+
+### 12. Merge faizan branch to dev
+
+```bash
+git merge faizan
+```
+
+
+### 13. Push to dev branch
+
+```bash
+git push origin dev
+```
