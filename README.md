@@ -82,3 +82,40 @@ git merge faizan
 ```bash
 git push origin dev
 ```
+
+### 14. Talha will write the code in requirements.txt
+
+### 15. Adding the file to git locally
+
+bash
+git add .
+
+
+### 16. Commit the file
+
+bash
+git commit -m "Add requirements.txt"
+
+
+### 17. Push the file to the repository
+
+bash
+git push origin talha
+
+
+### 18. Checkout to Dev Branch
+
+bash
+git checkout dev
+
+
+### 19. Merge the Talha Branch to Dev Branch
+
+bash
+git merge talha
+
+
+### 20. Push the file to the repository
+
+bash
+git push origin dev
